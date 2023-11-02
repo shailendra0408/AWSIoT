@@ -1,0 +1,18 @@
+#Moved to the pdf file. 
+#Here will add more steps for the RPI. 
+
+
+
+
+
+
+--> Link for install IoT SDK on your device - https://docs.aws.amazon.com/greengrass/v1/developerguide/IoT-SDK.html
+--> Link for setuping everything - https://docs.aws.amazon.com/iot/latest/developerguide/http.html
+
+Note 
+--> Attaching the right policy is very important. If you don't attach the right policy, even though you device would be
+publishing the data, AWS won't accept it. 
+--> while creating the thing, download the right certificates and rename them so that they are easy to use. 
+--> While creating resources in IoT core and Amazon TimeStream make sure that they are in the same region. 
+
+
