@@ -17,6 +17,7 @@
 # Sensor used  
 1. None - used CPU temperature 
 2. HC-SR04
+![HC SR04 range sensor ](/docs/HCSR04.jpeg)
 3. Maxbotix Distance Sensor 
 
 
