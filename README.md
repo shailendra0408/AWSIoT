@@ -21,6 +21,7 @@
 3. Maxbotix Distance Sensor 
 
 
+#Data flow diagram for the setup. Differnet kind of senosrs can be used. 
 
 ![Data flow from IoT device to IoT Core and further](/docs/AWSIOTSensors.png)
 
